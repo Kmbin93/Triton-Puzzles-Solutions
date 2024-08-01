@@ -1,3 +1,6 @@
+# Solutions
+This repository includes Kyungmin's solution to the Triton Puzzles.
+
 # Triton Puzzles
 
 w/ Tejas Ramesh and [Keren Zhou](https://www.jokeren.tech/) based on [Triton-Viz](https://github.com/Deep-Learning-Profiling-Tools/triton-viz)
