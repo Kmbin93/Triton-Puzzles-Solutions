@@ -1,6 +1,7 @@
 # Solutions
 This repository includes Kyungmin's solution to the Triton Puzzles.
-I conducted this puzzle in Google Colab. I have found an error when using 'tl.dot()' in Puzzle 11 and Puzzle 12. This may be due to a version mismatch issue between the latest version of Triton and the puzzle. I recommend using the Triton version in the Jupyter Notebook.
+I conducted this puzzle in Google Colab. 
+I have found an error when using `tl.dot()` in Puzzle 11 and Puzzle 12. This may be due to a version mismatch issue between the latest version of Triton and the puzzle. I recommend using the Triton version in the Jupyter Notebook.
 
 # Triton Puzzles
 
